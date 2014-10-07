@@ -1,0 +1,13 @@
+{
+	"name": "unsided-web",
+	"version": "0.0.0",
+	"description": "Sharing code between the client and the server",
+	"author": "CoderPuppy",
+
+	"dependencies": {
+		"pull-stream": "^2.24.0",
+		"pull-pushable": "^1.1.4",
+		
+		"virtual-dom": "^0.0.15"
+	}
+}
